@@ -51,7 +51,7 @@ The following bullet-points are some headings from Part 3 of this project:
 * **First Steps to Programming Your PIC**
 * **The Code**
 * **The Code Explained**
-* **Placing the PIC184525 MCU Into the Programmer Seat Adapter**
+* **Placing the PIC18F4525 MCU Into the Programmer Seat Adapter**
 * **Programmer Adapter Jumper Wires**
 * **Connecting the PICkit 3 to the Computer**
 * **Compiling Our Code**
