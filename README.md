@@ -14,7 +14,7 @@ that uses a PIC18F4525 microcontroller to control an LED using a couple of tacti
 
 ## A Three-Part PIC Project
 
-As mentioned, this PIC project is divided into three managable parts. The following is s brief synopsis on each part:
+As mentioned, this PIC project is divided into three managable parts. The following is s brief synopsis of each part of the Motbots <a href="https://motbots.com/super-simple-led-switch-series-pic-project/" target="_blank" rel="noopener noreferrer nofollow">Super Simple LED Switch PIC Project Series</a>:
 
 ### :open_book: Part 1 - The Preliminaries
 
